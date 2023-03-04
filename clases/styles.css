@@ -3,12 +3,6 @@ body {
     background-color: #777;
 }
 
-h1 {
-    text-align: center;
-    margin: 5rem 0;
-    font-weight: 900;
-}
-
 form {
     width: 100%;
     max-width: 600px;
@@ -23,9 +17,4 @@ form input, button {
     min-width: 20rem;
     height: 2rem;
     margin: 1rem;
-}
-
-form h2 {
-    align-items: left;
-    font-weight: 700;
 }
